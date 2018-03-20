@@ -1,0 +1,20 @@
+{
+	
+  "title": "Malayalam Wordnet",
+  "name": "Malayalam-Wordnet",
+  "version": "1.0.0",
+  "id":"jid0-2tv2gULVq1PX721ILGqnnOSnTBY@jetpack",
+   "icons": {
+            "64": "index.png"
+        },
+  "description": "Select any text on browser, right click and select Show the meaning which popups a new box showing meaning.",
+  "main": "index.js",
+  "author": "Adarsh Joseph and lida susan sabu",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
