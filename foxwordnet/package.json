@@ -7,7 +7,7 @@
    "icons": {
             "64": "index.png"
         },
-  "description": "Select any text on browser, right click and select Show the meaning which popups a new box showing meaning.",
+  "description": "Select any text on browser, right click and select Show the meaning which popups a new box showing the conceptual meaning of the word.",
   "main": "index.js",
   "author": " lida susan sabu",
   "engines": {
