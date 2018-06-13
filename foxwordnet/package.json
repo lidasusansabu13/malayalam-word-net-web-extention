@@ -9,7 +9,7 @@
         },
   "description": "Select any text on browser, right click and select Show the meaning which popups a new box showing meaning.",
   "main": "index.js",
-  "author": "Adarsh Joseph and lida susan sabu",
+  "author": " lida susan sabu",
   "engines": {
     "firefox": ">=38.0a1"
   },
